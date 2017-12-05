@@ -1,0 +1,22 @@
+body {
+  font-family: 'Berkshire Swash', cursive;
+  text-align: center;
+  background-image: url(http://thippo.com/wp-content/uploads/2017/05/table-top-view-classia-net-for-marble-coffee-he-50-fire-pit-round-glass-replacement-toppers-lift-hinge-ideas-thickness-ottoman-display-case-lifts-up-mechanism-hardware-topper-topics.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h1 {
+  color: white;
+}
+.container {
+  height: 375px;
+  width: 600px;
+  background-image: url(http://youversustheworld.com/wp-content/uploads/2014/05/bigstock-quill-pen-and-inkwell-on-vinta-53757838-1080x675.jpg);
+  background-size: 100%;
+  display: inline-block;
+  font-size: 24px;
+
+}
+.input {
+  margin: 20px;
+}
